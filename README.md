@@ -1,7 +1,7 @@
 # 🌍 Global Canlı Döviz ve Finans Paneli (JSON API Entegrasyonu)
 
-<img width="1887" height="906" alt="döiz" src="https://github.com/user-attachments/assets/91769acf-f4a2-4eca-8b08-570927f3ed5b" />
-<img width="1887" height="892" alt="döizzz" src="https://github.com/user-attachments/assets/db35c610-488d-4e58-bace-24e75682c47c" />
+<img width="1886" height="892" alt="dövizzzzzzzz" src="https://github.com/user-attachments/assets/aa616e20-fe97-4e34-afc6-c61e2789f431" />
+
 
 
 Bu proje, global piyasalardaki döviz kurlarını harici bir JSON API (ExchangeRate-API) üzerinden çekerek kullanıcıya sunan, modern ve tam uyumlu (responsive) bir finansal dashboard uygulamasıdır.
